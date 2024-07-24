@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Himanshu2434
+- 👋 Hi, I’m @Himanshu
 - 👀 I’m interested in data.
 - 🌱 I’m currently learning SQL and Python.
 - 💞️ I’m looking to collaborate on Data Visaulization Projects. 
